@@ -1,2 +1,2 @@
 # Design-Pattern
-Strateji, Observer, Decorater deseni uygulaması
+Tasarım desenleri uygulaması
