@@ -1,0 +1,14 @@
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\bin\Debug\WpfÖdev.exe.config
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\bin\Debug\WpfÖdev.exe
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\bin\Debug\WpfÖdev.pdb
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfStrategy.csproj.AssemblyReference.cache
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\MainWindow.baml
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\MainWindow.g.cs
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\App.g.cs
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfÖdev_MarkupCompile.cache
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfÖdev.g.resources
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfÖdev.Properties.Resources.resources
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfStrategy.csproj.GenerateResource.cache
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfStrategy.csproj.CoreCompileInputs.cache
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfÖdev.exe
+C:\Users\LenovA\Downloads\OOPÖdev\WpfStrateji\obj\Debug\WpfÖdev.pdb
